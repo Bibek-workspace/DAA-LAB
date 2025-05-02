@@ -1,4 +1,5 @@
-Prims and kruskal algorthm
-insertion sort
-topological sort using DFS
+Prims  algorthm
+kruskal algorthm
+Insertion sort
+Topological sort using DFS
 Heapsort
