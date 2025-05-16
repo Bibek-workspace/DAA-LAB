@@ -1,3 +1,7 @@
+Name=BIBEK AGRAHARI
+Section = 4A
+USN= 1BM23AI044
+
 Prims  algorthm,
 kruskal algorthm,
 Insertion sort,
